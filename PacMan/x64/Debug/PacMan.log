@@ -1,0 +1,10 @@
+﻿  board.cpp
+  Fruit.cpp
+  Game.cpp
+  General.cpp
+  Ghost.cpp
+  main.cpp
+C:\Users\danam\Desktop\Projects\PACMAN\PacMan\main.cpp(14,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PacMan.cpp
+  Generating Code...
+  PacMan.vcxproj -> C:\Users\danam\Desktop\Projects\PACMAN\x64\Debug\PacMan.exe
